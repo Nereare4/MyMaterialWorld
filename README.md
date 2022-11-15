@@ -18,11 +18,11 @@
 [layout/component_dialog](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_dialog.xml)
 
 ### Hemos cambiado color de un botón
-![layout/component_fabs](img/ComponentDialog.png)
+![layout/component_fabs](img/ComponentFabs.png)
 [layout/component_fabs](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_fabs.xml)
 
 ### Hemos cambiado el color del botón
-![layout/component_tabs](img/ComponentDialog.png)
+![layout/component_tabs](img/ComponentTabs.png)
 [layout/component_tabs](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_tabs.xml)
 
 ### Hemos cambiado el color del botón
