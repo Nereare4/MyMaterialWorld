@@ -1,33 +1,33 @@
 ## MODIFICACIONES:
 
 ### Hemos cambiado el texto de headline 6
-![values/strings.xml](img/Header6.png)
-[values/strings.xml](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/values/strings.xml)
+![values/strings.xml](img/Header6.png)  
+[values/strings.xml](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/values/strings.xml)  
 [layout/component_card](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_cards.xml)
 
 ### Hemos cambiado el color del texto 
-![layout/activity_main](img/ActivityMain.png)
+![layout/activity_main](img/ActivityMain.png)  
 [layout/activity_main](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/activity_main.xml)
 
 ### Hemos cambiado el tamaño en los botones
-![layout/component_buttons](img/ComponentButtons.png)
+![layout/component_buttons](img/ComponentButtons.png)  
 [layout/component_buttons](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_buttons.xml)
 
 ### Hemos cambiado el color de fondo y el texto del botón
-![layout/component_dialog](img/ComponentDialog.png)
+![layout/component_dialog](img/ComponentDialog.png)  
 [layout/component_dialog](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_dialog.xml)
 
 ### Hemos cambiado color de un botón
-![layout/component_fabs](img/ComponentFabs.png)
+![layout/component_fabs](img/ComponentFabs.png)  
 [layout/component_fabs](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_fabs.xml)
 
 ### Hemos cambiado el color del botón
-![layout/component_tabs](img/ComponentTabs.png)
+![layout/component_tabs](img/ComponentTabs.png)  
 [layout/component_tabs](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_tabs.xml)
 
 ### Hemos cambiado el color del botón
-![values/color.xml](img/ComponentTopAppBar.png)
-[values/color](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/values/color.xml)
+![values/color.xml](img/ComponentTopAppBar.png)  
+[values/color](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/values/color.xml)  
 [layout/component_top_app_bar](https://github.com/Nereare4/MyMaterialWorld/blob/develop/app/src/main/res/layout/component_top_app_bar.xml)
 
 
