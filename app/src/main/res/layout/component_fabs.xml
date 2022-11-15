@@ -60,7 +60,8 @@
       app:layout_constraintEnd_toStartOf="@+id/mini_fab"
       app:layout_constraintHorizontal_bias="0.5"
       app:layout_constraintStart_toEndOf="@+id/extended_fab"
-      app:layout_constraintTop_toTopOf="@+id/extended_fab" />
+      app:layout_constraintTop_toTopOf="@+id/extended_fab"
+        android:backgroundTint="@color/yellow"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
       android:id="@+id/mini_fab"

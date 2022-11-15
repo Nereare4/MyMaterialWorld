@@ -45,6 +45,7 @@
       app:title="@string/text_headline_6"
       app:layout_constraintTop_toBottomOf="@+id/label"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintEnd_toEndOf="parent" />
+      app:layout_constraintEnd_toEndOf="parent"
+        android:backgroundTint="@color/yellow"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

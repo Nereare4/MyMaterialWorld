@@ -61,5 +61,5 @@
     <!--Color on secondary (light), color on background (light),-->
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
-
+    <color name="yellow">#F1DC23</color>
 </resources>
